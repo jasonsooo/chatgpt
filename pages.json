@@ -1,0 +1,57 @@
+{
+	"pages": [{
+		"path": "pages/index/index"
+	}, {
+		"path": "pages/chat/chat",
+		"style": {
+			"navigationBarTitleText": "对话"
+		}
+	}, {
+		"path": "pages/chat/history_dialogue",
+		"style": {
+			"navigationBarTitleText": "历史对话"
+		}
+	}, {
+		"path": "pages/my/my",
+		"style": {
+			"navigationBarTitleText": "我的",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/my/disclaimer",
+		"style": {
+			"navigationBarTitleText": "免责声明",
+			"enablePullDownRefresh": false
+		}
+	}],
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#122d59",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "首页",
+			"iconPath": "/static/images/home.png",
+			"selectedIconPath": "/static/images/home_select.png"
+		}, {
+			"pagePath": "pages/chat/history_dialogue",
+			"text": "历史对话",
+			"iconPath": "/static/images/history_dialogue_select.png",
+			"selectedIconPath": "/static/images/history_dialogue_select.png"
+		}, {
+			"pagePath": "pages/my/my",
+			"text": "我的",
+			"iconPath": "/static/images/me.png",
+			"selectedIconPath": "/static/images/me_select.png"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "明智AI",
+		"navigationBarBackgroundColor": "#FFF",
+		"navigationBarTextStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}

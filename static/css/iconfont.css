@@ -1,0 +1,165 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3891057 */
+  src: url('iconfont.ttf?t=1678858783959') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-erweima1:before {
+  content: "\e668";
+}
+
+.icon-tupian:before {
+  content: "\e67b";
+}
+
+.icon-erweima:before {
+  content: "\eaf1";
+}
+
+.icon-redo-full:before {
+  content: "\ea1a";
+}
+
+.icon-yuyin-:before {
+  content: "\e7bd";
+}
+
+.icon-jianpan:before {
+  content: "\e606";
+}
+
+.icon-yuyin:before {
+  content: "\e6e0";
+}
+
+.icon-shandian:before {
+  content: "\e799";
+}
+
+.icon-wuguanggao:before {
+  content: "\e69a";
+}
+
+.icon-jifen2:before {
+  content: "\e80f";
+}
+
+.icon-liebiao:before {
+  content: "\e624";
+}
+
+.icon-Rrl_s_079:before {
+  content: "\e61f";
+}
+
+.icon-kefu:before {
+  content: "\100dd";
+}
+
+.icon-tuiguang_mian:before {
+  content: "\e6e6";
+}
+
+.icon-duihao:before {
+  content: "\e61e";
+}
+
+.icon-shipin:before {
+  content: "\e665";
+}
+
+.icon-icon_commone_qiandaomian:before {
+  content: "\e608";
+}
+
+.icon-jifenduihuan:before {
+  content: "\fab3";
+}
+
+.icon-jifen:before {
+  content: "\fb20";
+}
+
+.icon-jifen1:before {
+  content: "\e712";
+}
+
+.icon-fenxiang:before {
+  content: "\e713";
+}
+
+.icon-fenxiangfangshi:before {
+  content: "\ed2e";
+}
+
+.icon-shengdanjie-liwu:before {
+  content: "\e613";
+}
+
+.icon-del:before {
+  content: "\e66e";
+}
+
+.icon-bubbles-chat:before {
+  content: "\e616";
+}
+
+.icon-NewChat:before {
+  content: "\e600";
+}
+
+.icon-duihuataolun:before {
+  content: "\e666";
+}
+
+.icon-wenjian:before {
+  content: "\e760";
+}
+
+.icon-zhuanfa:before {
+  content: "\e6c9";
+}
+
+.icon-fuzhi:before {
+  content: "\e610";
+}
+
+.icon-falv:before {
+  content: "\e633";
+}
+
+.icon-fanyi:before {
+  content: "\e6ba";
+}
+
+.icon-shujukanban:before {
+  content: "\eb66";
+}
+
+.icon-tianjiawengao:before {
+  content: "\e607";
+}
+
+.icon-daimaguanli:before {
+  content: "\e634";
+}
+
+.icon-tuwenbaogao:before {
+  content: "\e604";
+}
+
+.icon-xiezuozhidao:before {
+  content: "\e6c4";
+}
+
+.icon-wenda:before {
+  content: "\e6d6";
+}
+
