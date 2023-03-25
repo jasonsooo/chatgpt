@@ -33,13 +33,13 @@
 ![](https://github.com/jasonsooo/chatgpt/blob/main/111.jpg)
 
 ## 界面2
-![](https://github.com/jasonsooo/chatgpt/blob/main/222.jpg)
+![](https://github.com/jasonsooo/chatgpt/blob/main/222.png)
 
 ## 界面3
-![](https://github.com/jasonsooo/chatgpt/blob/main/333.jpg)
+![](https://github.com/jasonsooo/chatgpt/blob/main/333.png)
 
 ## 界面4
-![](https://github.com/jasonsooo/chatgpt/blob/main/444.jpg)
+![](https://github.com/jasonsooo/chatgpt/blob/main/444.png)
 
 ## 界面5
-![](https://github.com/jasonsooo/chatgpt/blob/main/555.jpg)
+![](https://github.com/jasonsooo/chatgpt/blob/main/555.png)
