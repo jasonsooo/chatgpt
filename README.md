@@ -28,3 +28,10 @@
 - /api/wiseApi.js 里配置接口平台的域名和密钥
 - /api/wiseSocket.js 里配置socket服务的域名和密钥
 - 更多配置和搭建教程有时间在整理更新，目前新功能迭代请大家谅解
+
+## 界面
+![](https://github.com/jasonsooo/chatgpt/blob/main/111.jpg)
+![](https://github.com/jasonsooo/chatgpt/blob/main/222.jpg)
+![](https://github.com/jasonsooo/chatgpt/blob/main/333.jpg)
+![](https://github.com/jasonsooo/chatgpt/blob/main/444.jpg)
+![](https://github.com/jasonsooo/chatgpt/blob/main/555.jpg)
